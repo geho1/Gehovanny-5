@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.carousel {
+    background: #FAFAFA;
+  }
+  
+  .item{
+    width: 66%;
+    height: 500px;
+    margin-right: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+ 
